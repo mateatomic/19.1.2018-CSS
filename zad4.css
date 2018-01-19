@@ -1,0 +1,8 @@
+.a{
+	border-style:inset;
+	border:1px solid blue;
+}
+.b{
+	border-top-width:thin;
+	border-bottom-width:thin;
+}
